@@ -2,7 +2,7 @@ every word that can picked daily on totcle
 ive made this list public to make it easier to play totcle
 ask kasoku if theres a totc related word you want added and he'll decide
 
-(https://totcle.xyz/)[https://totcle.xyz/]
+https://totcle.xyz/
 
   'oomf',
   'spoomf',
