@@ -4,7 +4,7 @@ every word that can picked daily on totcle
 <br>
 <br>https://totcle.xyz/
 <br>
-  'oomf',
+<br>'oomf',
   'spoomf',
   'toki',
   'kasoku',
