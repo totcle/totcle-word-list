@@ -1,9 +1,9 @@
 every word that can picked daily on totcle
-\nive made this list public to make it easier to play totcle
-\nask kasoku if theres a totc related word you want added and he'll decide
-\n
-\nhttps://totcle.xyz/
-\n
+<br> ive made this list public to make it easier to play totcle
+<br> ask kasoku if theres a totc related word you want added and he'll decide
+<br>
+<br>https://totcle.xyz/
+<br>
   'oomf',
   'spoomf',
   'toki',
